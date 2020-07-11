@@ -1,0 +1,87 @@
+# Hello, World🌏
+
+## Self introduction
+```json
+{
+	"name":"Fuya Yamauchi",
+	"age":22,
+	"likes":[
+		"Programming",
+		"Business domain watching",
+		"Web Marketing"
+	],
+	"Programming history":"About 10 years",
+	"private":{
+		"urls":[
+			"https://www.resume.id/huuya",
+			"https://qiita.com/huuya"
+		],
+		"types":[
+			"Full scratch System",
+			"Full scratch Website",
+			"Wordpress Plugin",
+			"Wordpress Theme",
+			"Google Chrome Extension",
+			"Visual Studio Code Extension",
+			"Business domain watching",
+			"Web Marketing"
+		],
+		"In development":{
+			"name":"Develovation",
+			"abouts":[
+                "Self making PHP Framework",
+                "Full scratch System"
+            ],
+			"url":"https://github.com/huuyafwww/develovation-project"
+		},
+		"stacks":[
+			"PHP",
+			"React",
+			"Python",
+			"HTML",
+			"CSS",
+			"javascript",
+			"jQuery",
+			"SQL"
+		]
+	},
+	"works":{
+		"urls":[],
+		"types":[
+			"System development",
+			"System development",
+			"Website create",
+			"Web Marketing"
+		],
+		"langs":[
+			"PHP",
+			"React",
+			"Python",
+			"HTML",
+			"CSS",
+			"javascript",
+			"jQuery",
+			"SQL"
+		],
+		"tools":[
+			"Amazon Web Service",
+			"Docker",
+			"Node.js",
+			"Webpack",
+			"Firebase"
+		]
+	}
+}
+```
+
+## Can you tell me your endpoint?
+
+Ok. 🙋‍♂️
+
+This one. 😂
+
+```
+127.0.0.1/api/v1/huuyafwww
+```
+
+But you have to issue an API token. 🥺
