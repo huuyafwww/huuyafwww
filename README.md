@@ -4,13 +4,13 @@
 
 ### electron-browser
 
-![electron-browser.png](electron-browser.png)
+![electron-browser.png](https://raw.githubusercontent.com/huuyafwww/huuyafwww/master/electron-browser.png)
 
 This is a browser developing by [Electron](https://www.electronjs.org/).
 
 ### develovation
 
-![develovation.png](develovation.png)
+![develovation.png](https://raw.githubusercontent.com/huuyafwww/huuyafwww/master/develovation.png)
 
 This is a screen under development.
 
