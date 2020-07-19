@@ -4,21 +4,13 @@
 
 ### electron-browser
 
-<div style="width:50%">
-	<img
-		src="https://raw.githubusercontent.com/huuyafwww/huuyafwww/master/electron-browser.png"
-	>
-</div>
+<img width="300px" src="https://raw.githubusercontent.com/huuyafwww/huuyafwww/master/electron-browser.png" >
 
 This is a browser developing by [Electron](https://www.electronjs.org/).
 
 ### develovation
 
-<div style="width:50%">
-	<img
-		src="https://raw.githubusercontent.com/huuyafwww/huuyafwww/master/develovation.png"
-	>
-</div>
+<img width="300px" src="https://raw.githubusercontent.com/huuyafwww/huuyafwww/master/develovation.png">
 
 This is a screen under development.
 
