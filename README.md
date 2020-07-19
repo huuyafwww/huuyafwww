@@ -1,87 +1,19 @@
 # Hello, World🌏
 
-## Self introduction
-```json
-{
-	"name":"Fuya Yamauchi",
-	"age":22,
-	"likes":[
-		"Programming",
-		"Business domain watching",
-		"Web Marketing"
-	],
-	"Programming history":"About 10 years",
-	"private":{
-		"urls":[
-			"https://www.resume.id/huuya",
-			"https://qiita.com/huuya"
-		],
-		"types":[
-			"Full scratch System",
-			"Full scratch Website",
-			"Wordpress Plugin",
-			"Wordpress Theme",
-			"Google Chrome Extension",
-			"Visual Studio Code Extension",
-			"Business domain watching",
-			"Web Marketing"
-		],
-		"In development":{
-			"name":"Develovation",
-			"abouts":[
-                "Self making PHP Framework",
-                "Full scratch System"
-            ],
-			"url":"https://github.com/huuyafwww/develovation-project"
-		},
-		"stacks":[
-			"PHP",
-			"React",
-			"Python",
-			"HTML",
-			"CSS",
-			"javascript",
-			"jQuery",
-			"SQL"
-		]
-	},
-	"works":{
-		"urls":[],
-		"types":[
-			"System development",
-			"System development",
-			"Website create",
-			"Web Marketing"
-		],
-		"langs":[
-			"PHP",
-			"React",
-			"Python",
-			"HTML",
-			"CSS",
-			"javascript",
-			"jQuery",
-			"SQL"
-		],
-		"tools":[
-			"Amazon Web Service",
-			"Docker",
-			"Node.js",
-			"Webpack",
-			"Firebase"
-		]
-	}
-}
-```
+## Now Developing My Project
 
-## Can you tell me your endpoint?
+### electron-browser
 
-Ok. 🙋‍♂️
+![electron-browser.png](electron-browser.png)
 
-This one. 😂
+This is a browser developing by [Electron](https://www.electronjs.org/).
 
-```
-127.0.0.1/api/v1/huuyafwww
-```
+### develovation
 
-But you have to issue an API token. 🥺
+![develovation.png](develovation.png)
+
+This is a screen under development.
+
+It runs on PHP, but it is a framework I developed. 👨‍💻
+
+Aiming to be open source software required by all web developers. 🤝
