@@ -1,6 +1,6 @@
-# Hello, World🌏
+# Hello, World. 🌏
 
-## Now Developing My Project
+This is now developing my project. 👨‍💻
 
 |[electron-browser](https://github.com/huuyafwww/electron-browser)|[develovation](https://github.com/huuyafwww/develovation-project)|
 |:---:|:---:|
