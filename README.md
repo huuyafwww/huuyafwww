@@ -1,4 +1,7 @@
-### Hello, World. 🌏
+## Hello, World. 🌏
+
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/huuya/posts.svg)](http://qiita.com/huuya)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/huuya/contributions.svg)](http://qiita.com/huuya)
 
 This is now developing my project. 👨‍💻
 
