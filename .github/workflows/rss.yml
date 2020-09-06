@@ -2,6 +2,10 @@ name: README_RSS_FEED_CI
 
 on:
   workflow_dispatch:
+    inputs:
+      description:
+        description: 'What updated on my blog'
+        required: false
   schedule:
     - cron: '0 */2 * * *'
 
