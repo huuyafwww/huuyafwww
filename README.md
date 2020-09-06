@@ -30,7 +30,7 @@ This is now developing my project. 👨‍💻
 
 |[Portfolio](https://huuya.ga/)|[Harver](https://github.com/huuyafwww/harver)|
 |:---:|:---:|
-|<img src="https://raw.githubusercontent.com/huuyafwww/huuyafwww/master/my_portfolio.png">|<img src="https://raw.githubusercontent.com/huuyafwww/huuyafwww/master/harver.png">|
+|<img src="https://raw.githubusercontent.com/huuyafwww/huuyafwww/master/portfolio_site.png">|<img src="https://raw.githubusercontent.com/huuyafwww/huuyafwww/master/harver.png">|
 |This is a **my portfolio site** by Gatsby. <br> Here's a brief introduction about me and my skills. 😊|This is a **HTTP Archive File Viewer** by Electron. <br> It's a new experience for web developers browsing har files. ✨|
 
 |[electron-browser](https://github.com/huuyafwww/electron-browser)|[develovation](https://github.com/huuyafwww/develovation-project)|
