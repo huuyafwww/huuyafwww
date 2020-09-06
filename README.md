@@ -6,7 +6,7 @@
 
 ### Blog
 
-My **portfolio blog** page is [here](https://huuya.ga/).
+My **portfolio blog** page is [here](https://huuya.ga/blog).
 
 <!-- blog start -->
 - Sep 06 - [Hello World 🌎. ](https://huuya.ga/2020-09-06-Hello-World/)
