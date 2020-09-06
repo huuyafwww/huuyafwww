@@ -1,0 +1,34 @@
+name: README_CI
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: qiita
+      uses: sarisia/actions-readme-feed@v1.2.0
+      id: qiita_feed
+      with:
+        url: 'https://qiita.com/huuya/feed'
+        file: 'README.md'
+        start_flag: "<!-- qiita start -->"
+        end_flag: "<!-- qiita end -->"
+      - name: blog
+      uses: sarisia/actions-readme-feed@v1.2.0
+      id: blog_feed
+      with:
+        url: 'https://huuya.ga/rss.xml'
+        file: 'README.md'
+        start_flag: "<!-- blog start -->"
+        end_flag: "<!-- blog end -->"
+      - if: ${{ steps.qiita_feed.outputs.changed == true || steps.blog_feed.outputs.changed == true}}
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git add .
+          git commit -m "docs: update feed" || true
+          git push
