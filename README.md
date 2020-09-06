@@ -4,7 +4,7 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/huuya/posts.svg)](http://qiita.com/huuya)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/huuya/contributions.svg)](http://qiita.com/huuya)
 
-### Blog
+### Portfolio Blog
 
 My **portfolio blog** page is [here](https://huuya.ga/blog).
 
@@ -12,7 +12,7 @@ My **portfolio blog** page is [here](https://huuya.ga/blog).
 - Sep 06 - [Hello World 🌎. ](https://huuya.ga/2020-09-06-Hello-World/)
 <!-- blog end -->
 
-#### Qiita
+### Qiita Blog
 
 My **Qiita Profile** page is [here](https://qiita.com/huuya).
 
