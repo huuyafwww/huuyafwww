@@ -1,4 +1,4 @@
-name: README_CI
+name: README_RSS_FEED_CI
 
 on:
   schedule:
