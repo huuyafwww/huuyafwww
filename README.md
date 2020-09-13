@@ -24,6 +24,13 @@ My **Qiita Profile** page is [here](https://qiita.com/huuya).
 - Jun 07 - [選択した文字列をリアルタイム翻訳するGoogle Chrome拡張機能を開発したよ🥺](https://qiita.com/huuya/items/1d23e77c91506b8c3462)
 <!-- qiita end -->
 
+### asciinema
+
+My **asciinema Profile** page is [here](https://asciinema.org/~huuya).
+
+<!-- asciinema start -->
+<!-- asciinema end -->
+
 ### Projects
 
 This is now developing my project. 👨‍💻
