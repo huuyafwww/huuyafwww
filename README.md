@@ -29,6 +29,10 @@ My **Qiita Profile** page is [here](https://qiita.com/huuya).
 My **asciinema Profile** page is [here](https://asciinema.org/~huuya).
 
 <!-- asciinema start -->
+- Sep 12 - [Party parrot can loop by curl!](https://asciinema.org/a/359341)
+- Sep 12 - [Ojichat lol](https://asciinema.org/a/359338)
+- Sep 12 - [Party parrot looping in terminal.](https://asciinema.org/a/359396)
+- Sep 12 - [Doge appeared in my terminal!](https://asciinema.org/a/359344)
 <!-- asciinema end -->
 
 ### Projects
