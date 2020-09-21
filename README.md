@@ -29,7 +29,7 @@ My **Qiita Profile** page is [here](https://qiita.com/huuya).
 My **asciinema Profile** page is [here](https://asciinema.org/~huuya).
 
 <!-- asciinema start -->
-- Sep 20 - [[Action required] Your RSS.app Trial has Expired - Sun Sep 20 2020](https://rss.app)
+- Sep 21 - [[Action required] Your RSS.app Trial has Expired - Mon Sep 21 2020](https://rss.app)
 <!-- asciinema end -->
 
 ### Projects
