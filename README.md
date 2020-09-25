@@ -46,5 +46,5 @@ This is now developing my project. 👨‍💻
 |This is a **browser** developing by Electron. <br> It aims to be a modern and beautiful browser for developers. 🙌|This is an application that is a **collection of useful tools for developers**.<br>It runs on PHP, but it is a **framework I developed**. 👨‍💻<br>Aiming to be open source software required by all web developers. 🤝|
 
 <!-- asciinema start -->
-- Sep 24 - [[Action required] Your RSS.app Trial has Expired - Thu Sep 24 2020](https://rss.app)
+- Sep 25 - [[Action required] Your RSS.app Trial has Expired - Fri Sep 25 2020](https://rss.app)
 <!-- asciinema end -->
