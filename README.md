@@ -44,7 +44,3 @@ This is now developing my project. 👨‍💻
 |[electron-browser](https://github.com/huuyafwww/electron-browser)|[develovation](https://github.com/huuyafwww/develovation-project)|
 |<img src="https://raw.githubusercontent.com/huuyafwww/huuyafwww/master/electron-browser.png" >|<img src="https://raw.githubusercontent.com/huuyafwww/huuyafwww/master/develovation.png">|
 |This is a **browser** developing by Electron. <br> It aims to be a modern and beautiful browser for developers. 🙌|This is an application that is a **collection of useful tools for developers**.<br>It runs on PHP, but it is a **framework I developed**. 👨‍💻<br>Aiming to be open source software required by all web developers. 🤝|
-
-<!-- asciinema start -->
-- Sep 27 - [[Action required] Your RSS.app Trial has Expired - Sun Sep 27 2020](https://rss.app)
-<!-- asciinema end -->
