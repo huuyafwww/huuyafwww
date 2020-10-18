@@ -17,11 +17,11 @@ My **portfolio blog** page is [here](https://huuya.ga/blog).
 My **Qiita Profile** page is [here](https://qiita.com/huuya).
 
 <!-- qiita start -->
+- Oct 18 - [内向きDNSで宅内専用サーバを構築する：メモリ換装〜通電確認編](https://qiita.com/huuya/items/45a7c31409fdad0d7bf5)
 - Sep 05 - [JavaScriptのbindをループ処理で定義していくヘルパー関数書いてみたンゴね〜](https://qiita.com/huuya/items/f69380195a5e0e730b75)
 - Sep 02 - [Non TypeScriptスタックで型のバリデーションをする機構を01で実装してみる](https://qiita.com/huuya/items/a133497fa1a7cba192d7)
 - Aug 30 - [「Vercel + freenom + Getform.io」構成で「爆速 + 管理費完全無料」のポートフォリオをGatsbyJSで作ったら幸福度が高まった話](https://qiita.com/huuya/items/a52609d5407ad873eaa2)
 - Jul 28 - [GatsbyJSの魅力を知った...](https://qiita.com/huuya/items/2028ec526e14b031b17e)
-- Jun 07 - [選択した文字列をリアルタイム翻訳するGoogle Chrome拡張機能を開発したよ🥺](https://qiita.com/huuya/items/1d23e77c91506b8c3462)
 <!-- qiita end -->
 
 ### asciinema
