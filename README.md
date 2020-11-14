@@ -24,6 +24,14 @@ My **Qiita Profile** page is [here](https://qiita.com/huuya).
 - Jul 28 - [GatsbyJSの魅力を知った...](https://qiita.com/huuya/items/2028ec526e14b031b17e)
 <!-- qiita end -->
 
+### Zenn Blog
+
+My **Zenn Profile** page is [here](https://zenn.dev/huuya).
+
+
+- Nov 14 - [普段遣いしているMacアプリのアイコンをひと足早くBig Surにする✨](https://zenn.dev/huuya/articles/e783c9d19f2aab67625d)
+
+
 ### asciinema
 
 My **asciinema Profile** page is [here](https://asciinema.org/~huuya).
