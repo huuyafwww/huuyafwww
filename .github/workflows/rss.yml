@@ -28,7 +28,15 @@ jobs:
           file: 'README.md'
           start_flag: "<!-- blog start -->"
           end_flag: "<!-- blog end -->"
-      - if: ${{ steps.qiita_feed.outputs.changed == true || steps.blog_feed.outputs.changed == true }}
+      - name: zenn
+        uses: sarisia/actions-readme-feed@v1.2.0
+        id: zenn_feed
+        with:
+          url: 'https://zenn.dev/huuya/feed'
+          file: 'README.md'
+          start_flag: "<!--zenn start -->"
+          end_flag: "<!-- zenn end -->"
+      - if: ${{ steps.qiita_feed.outputs.changed == true || steps.blog_feed.outputs.changed == true || steps.zenn_feed.outputs.changed == true}}
         run: |
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
