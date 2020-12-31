@@ -29,6 +29,7 @@ My **Qiita Profile** page is [here](https://qiita.com/huuya).
 My **Zenn Profile** page is [here](https://zenn.dev/huuya).
 
 
+- Dec 31 - [phpのarray_mapをphpで実装してみる](https://zenn.dev/huuya/articles/e8fdefd948602f)
 - Nov 14 - [普段遣いしているMacアプリのアイコンをひと足早くBig Surにする✨](https://zenn.dev/huuya/articles/e783c9d19f2aab67625d)
 
 
