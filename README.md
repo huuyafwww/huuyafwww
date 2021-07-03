@@ -29,6 +29,7 @@ My **Qiita Profile** page is [here](https://qiita.com/huuya).
 My **Zenn Profile** page is [here](https://zenn.dev/huuya).
 
 
+- 2021 Jun 31 - [アーリーアクセスの申し込みをしていたFigが利用できるようになったので早速触ってみた](https://zenn.dev/huuya/articles/1d0e56a4c7c55c)た
 - 2021 May 31 - [入門自宅サーバ](https://zenn.dev/huuya/articles/2138e9fe12730d)
 - 2020 Dec 31 - [phpのarray_mapをphpで実装してみる](https://zenn.dev/huuya/articles/e8fdefd948602f)
 - 2020 Nov 14 - [普段遣いしているMacアプリのアイコンをひと足早くBig Surにする✨](https://zenn.dev/huuya/articles/e783c9d19f2aab67625d)
