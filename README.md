@@ -29,6 +29,7 @@ My **Qiita Profile** page is [here](https://qiita.com/huuya).
 My **Zenn Profile** page is [here](https://zenn.dev/huuya).
 
 
+- 2021 Jul 18 - [自宅サーバのSSHにログインしたらIPアドレスと位置情報をLINE通知する](https://zenn.dev/huuya/articles/9fbbb94888d1fb)
 - 2021 Jul 03 - [stdout仕様の謎みが深いcurlの調査](https://zenn.dev/huuya/articles/72108f3600c05b)
 - 2021 Jun 31 - [アーリーアクセスの申し込みをしていたFigが利用できるようになったので早速触ってみた](https://zenn.dev/huuya/articles/1d0e56a4c7c55c)
 - 2021 May 31 - [入門自宅サーバ](https://zenn.dev/huuya/articles/2138e9fe12730d)
