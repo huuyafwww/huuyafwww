@@ -28,7 +28,8 @@ My **Qiita Profile** page is [here](https://qiita.com/huuya).
 
 My **Zenn Profile** page is [here](https://zenn.dev/huuya).
 
-
+- 2021 Oct 03 - [usbmuxdインストール時に依存するlibimobiledevice-glue-1.0パッケージが無いとエラーが出た場合の対処方法](https://zenn.dev/huuya/articles/3f5f9ecd7258b0)
+- 2021 Aug 01 - [LISP派生のClojure言語でFizzBuzz書いてみた](https://zenn.dev/huuya/articles/601699ee8a5bc7)
 - 2021 Jul 18 - [自宅サーバのSSHにログインしたらIPアドレスと位置情報をLINE通知する](https://zenn.dev/huuya/articles/9fbbb94888d1fb)
 - 2021 Jul 03 - [stdout仕様の謎みが深いcurlの調査](https://zenn.dev/huuya/articles/72108f3600c05b)
 - 2021 Jun 31 - [アーリーアクセスの申し込みをしていたFigが利用できるようになったので早速触ってみた](https://zenn.dev/huuya/articles/1d0e56a4c7c55c)
