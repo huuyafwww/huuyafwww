@@ -6,10 +6,10 @@
 
 ### Portfolio Blog
 
-My **portfolio blog** page is [here](https://huuya.ga/blog).
+My **portfolio blog** page is [here](https://huuya.gq/blog).
 
 <!-- blog start -->
-- 2020 Sep 06 - [Hello World 🌎. ](https://huuya.ga/blog/hello-world-fuya-blog)
+- 2020 Sep 06 - [Hello World 🌎. ](https://huuya.gq/blog/hello-world-fuya-blog)
 <!-- blog end -->
 
 ### Qiita Blog
