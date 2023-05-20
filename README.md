@@ -8,7 +8,7 @@
 
 ### Contributes
 
-- [opensearch-js](https://github.com/huuyafwww/opensearch-js)
+- [opensearch-js](https://github.com/opensearch-project/opensearch-js)
 - [python-markdownify](https://github.com/matthewwithanm/python-markdownify)
 - [aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3)
 
