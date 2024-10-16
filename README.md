@@ -8,6 +8,7 @@
 
 ### Contributes
 
+- [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)
 - [opensearch-js](https://github.com/opensearch-project/opensearch-js)
 - [python-markdownify](https://github.com/matthewwithanm/python-markdownify)
 - [aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3)
@@ -17,6 +18,7 @@
 
 - Infrastructure
 - Backend
+- Architecture and System Design
 - Performance Tuning
 - ElasticSearch / OpenSearch
 - Algorithm
