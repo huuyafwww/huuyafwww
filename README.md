@@ -17,6 +17,7 @@
 
 ### Contributing
 
+- [pnpm](https://github.com/pnpm/pnpm)
 - [msw](https://github.com/mswjs/msw)
 - [@mswjs/data](https://github.com/mswjs/data)
 
