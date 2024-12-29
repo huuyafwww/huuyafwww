@@ -15,6 +15,11 @@
 - [python-markdownify](https://github.com/matthewwithanm/python-markdownify)
 - [aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3)
 
+### Contributing
+
+- [msw](https://github.com/mswjs/msw)
+- [@mswjs/data](https://github.com/mswjs/data)
+
 ### Likes
 
 - Infrastructure
