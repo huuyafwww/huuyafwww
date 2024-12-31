@@ -8,6 +8,7 @@
 
 ### Contributes
 
+- [pnpm](https://github.com/pnpm/pnpm)
 - [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)
 - [urql](https://github.com/urql-graphql/urql)
 - [langchainjs](https://github.com/langchain-ai/langchainjs)
@@ -17,7 +18,6 @@
 
 ### Contributing
 
-- [pnpm](https://github.com/pnpm/pnpm)
 - [msw](https://github.com/mswjs/msw)
 - [@mswjs/data](https://github.com/mswjs/data)
 
