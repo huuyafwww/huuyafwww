@@ -18,6 +18,7 @@
 
 ### Contributing
 
+- [drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
 - [msw](https://github.com/mswjs/msw)
 - [@mswjs/data](https://github.com/mswjs/data)
 
