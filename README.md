@@ -6,6 +6,21 @@
 - [Qiita](https://qiita.com/huuya)
 - [asciinema](https://asciinema.org/~huuya)
 
+
+### Published libraries
+
+- [has-command](https://www.npmjs.com/package/has-command)
+- [has-throw](https://www.npmjs.com/package/has-throw)
+- [@huuyafwww/eslint-config-browser](https://www.npmjs.com/package/@huuyafwww/eslint-config-browser)
+- [@huuyafwww/eslint-config-storybook](https://www.npmjs.com/package/@huuyafwww/eslint-config-storybook)
+- [@huuyafwww/eslint-config-common](https://www.npmjs.com/package/@huuyafwww/eslint-config-common)
+- [@huuyafwww/eslint-config-next](https://www.npmjs.com/package/@huuyafwww/eslint-config-next)
+- [@huuyafwww/eslint-config-node](https://www.npmjs.com/package/@huuyafwww/eslint-config-node)
+- [@huuyafwww/eslint-config-react](https://www.npmjs.com/package/@huuyafwww/eslint-config-react)
+- [@huuyafwww/tsconfig-common](https://www.npmjs.com/package/@huuyafwww/tsconfig-common)
+- [@huuyafwww/tsconfig-next](https://www.npmjs.com/package/@huuyafwww/tsconfig-next)
+
+
 ### Contributes
 
 - [pnpm](https://github.com/pnpm/pnpm)
