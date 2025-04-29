@@ -18,6 +18,7 @@
 - [@huuyafwww/eslint-config-node](https://www.npmjs.com/package/@huuyafwww/eslint-config-node)
 - [@huuyafwww/eslint-config-react](https://www.npmjs.com/package/@huuyafwww/eslint-config-react)
 - [@huuyafwww/tsconfig-common](https://www.npmjs.com/package/@huuyafwww/tsconfig-common)
+- [@huuyafwww/tsconfig-react](https://www.npmjs.com/package/@huuyafwww/tsconfig-react)
 - [@huuyafwww/tsconfig-next](https://www.npmjs.com/package/@huuyafwww/tsconfig-next)
 
 
