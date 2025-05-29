@@ -29,13 +29,13 @@
 - [urql](https://github.com/urql-graphql/urql)
 - [langchainjs](https://github.com/langchain-ai/langchainjs)
 - [opensearch-js](https://github.com/opensearch-project/opensearch-js)
+- [msw](https://github.com/mswjs/msw)
 - [python-markdownify](https://github.com/matthewwithanm/python-markdownify)
 - [aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3)
 
 ### Contributing
 
 - [drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-- [msw](https://github.com/mswjs/msw)
 - [@mswjs/data](https://github.com/mswjs/data)
 
 ### Likes
