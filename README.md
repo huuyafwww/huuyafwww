@@ -36,6 +36,7 @@
 ### Contributing
 
 - [drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+- [storycap](https://github.com/reg-viz/storycap/)
 - [@mswjs/data](https://github.com/mswjs/data)
 
 ### Likes
