@@ -9,6 +9,7 @@
 
 ### Published libraries
 
+- [storycapture](https://github.com/huuyafwww/storycapture)
 - [has-command](https://www.npmjs.com/package/has-command)
 - [has-throw](https://www.npmjs.com/package/has-throw)
 - [@huuyafwww/eslint-config-browser](https://www.npmjs.com/package/@huuyafwww/eslint-config-browser)
