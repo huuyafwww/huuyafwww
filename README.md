@@ -43,6 +43,7 @@
 - [@storybook/addon-queryparams](https://github.com/storybookjs/addon-queryparams)
 - [storycap](https://github.com/reg-viz/storycap/)
 - [@mswjs/data](https://github.com/mswjs/data)
+- [vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme)
 
 ### Likes
 
