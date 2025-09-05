@@ -9,7 +9,7 @@
 
 ### Published libraries
 
-- [storycapture](https://github.com/huuyafwww/storycapture)
+- [storycapture](https://www.npmjs.com/package/storycapture)
 - [has-command](https://www.npmjs.com/package/has-command)
 - [has-throw](https://www.npmjs.com/package/has-throw)
 - [@huuyafwww/eslint-config-browser](https://www.npmjs.com/package/@huuyafwww/eslint-config-browser)
@@ -35,6 +35,7 @@
 - [opensearch-js](https://github.com/opensearch-project/opensearch-js)
 - [msw](https://github.com/mswjs/msw)
 - [python-markdownify](https://github.com/matthewwithanm/python-markdownify)
+- [@storybook/addon-queryparams](https://github.com/storybookjs/addon-queryparams)
 - [storycap](https://github.com/reg-viz/storycap/)
 - [vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme)
 - [aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3)
@@ -42,7 +43,6 @@
 ### Contributing
 
 - [drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-- [@storybook/addon-queryparams](https://github.com/storybookjs/addon-queryparams)
 - [@mswjs/data](https://github.com/mswjs/data)
 
 ### Likes
