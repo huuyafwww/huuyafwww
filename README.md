@@ -42,6 +42,8 @@
 
 ### Contributing
 
+- [@liam-hq/schema](https://github.com/liam-hq/liam)
+- [@liam-hq/erd-core](https://github.com/liam-hq/liam)
 - [drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
 - [@mswjs/data](https://github.com/mswjs/data)
 
