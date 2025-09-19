@@ -35,6 +35,8 @@
 - [opensearch-js](https://github.com/opensearch-project/opensearch-js)
 - [msw](https://github.com/mswjs/msw)
 - [python-markdownify](https://github.com/matthewwithanm/python-markdownify)
+- [@liam-hq/schema](https://github.com/liam-hq/liam)
+- [@liam-hq/erd-core](https://github.com/liam-hq/liam)
 - [@storybook/addon-queryparams](https://github.com/storybookjs/addon-queryparams)
 - [storycap](https://github.com/reg-viz/storycap/)
 - [vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme)
@@ -42,8 +44,6 @@
 
 ### Contributing
 
-- [@liam-hq/schema](https://github.com/liam-hq/liam)
-- [@liam-hq/erd-core](https://github.com/liam-hq/liam)
 - [drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
 - [@mswjs/data](https://github.com/mswjs/data)
 
