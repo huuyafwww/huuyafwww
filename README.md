@@ -1,5 +1,10 @@
 ## Hello, World. 🌏
 
+### Member of
+
+- [3-shake](https://github.com/3-shake)
+- [Storybook Community](https://github.com/storybook-community)
+
 ### Blogs
 
 - [Zenn](https://zenn.dev/huuya)
