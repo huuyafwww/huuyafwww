@@ -39,6 +39,7 @@
 - [langchainjs](https://github.com/langchain-ai/langchainjs)
 - [opensearch-js](https://github.com/opensearch-project/opensearch-js)
 - [msw](https://github.com/mswjs/msw)
+- [@mswjs/data](https://github.com/mswjs/data)
 - [python-markdownify](https://github.com/matthewwithanm/python-markdownify)
 - [@liam-hq/schema](https://github.com/liam-hq/liam)
 - [@liam-hq/erd-core](https://github.com/liam-hq/liam)
@@ -49,8 +50,8 @@
 
 ### Contributing
 
+- [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action/)
 - [drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-- [@mswjs/data](https://github.com/mswjs/data)
 
 ### Likes
 
